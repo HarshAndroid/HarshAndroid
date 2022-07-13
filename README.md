@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshAndroid
-- 👀 I’m interested in Android Development, Data Science, Machine Learning, Cyber Security,etc.
-- 🌱 I’m currently learning Android Development.
+- 👀 I’m interested in Flutter Development, Android Development, Data Science, Machine Learning, Cyber Security,etc.
+- 🌱 I’m currently learning Android & Flutter Development.
 - 📫 How to reach me : Email - rajpurohitharsh2020@gmail.com
 
 <!---
