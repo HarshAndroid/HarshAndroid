@@ -3,9 +3,6 @@
 [<img src="https://img.shields.io/badge/gmail-orange.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:rajpurohitharsh2020@gmail.com)
 ![Visits Badge](https://badges.pufler.dev/visits/HarshAndroid/HarshAndroid?style=for-the-badge)
 
-<!-- ![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/HarshAndroid)
-![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/HarshAndroid) -->
-
 <!-- [<img src="https://img.shields.io/badge/donate-%230077B5.svg?&style=for-the-badge&logo=paypal&logoColor=white" />](https://www.paypal.me/harshRajpurohit2023) -->
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
