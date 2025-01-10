@@ -16,5 +16,5 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarshAndroid&show_icons=true&count_private=true" height=200 />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshAndroid&count_private=true" height=200 />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshAndroid&count_private=true" height=200 /> -->
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarshAndroid&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&count_private=true" height=200 />
