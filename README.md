@@ -1,7 +1,7 @@
 [<img src="https://img.shields.io/badge/youtube-%23EE0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/@harshRajpurohit)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harsh-rajpurohit-9988101b9)
 [<img src="https://img.shields.io/badge/gmail-orange.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:rajpurohitharsh2020@gmail.com)
-![Visits Badge](https://badges.pufler.dev/visits/HarshAndroid/HarshAndroid?style=for-the-badge)
+<!-- ![Visits Badge](https://badges.pufler.dev/visits/HarshAndroid/HarshAndroid?style=for-the-badge) -->
 
 <!-- [<img src="https://img.shields.io/badge/donate-%230077B5.svg?&style=for-the-badge&logo=paypal&logoColor=white" />](https://www.paypal.me/harshRajpurohit2023) -->
 
